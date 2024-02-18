@@ -7,8 +7,8 @@
 ////////////////////////////////////////////
 //Changeable Variables/////////////////////
 // Your WiFi credentials. 
-char ssid[] = "IT";
-char pass[] = "TazinSayeed#@!";
+char ssid[] = "***************";
+char pass[] = "******************";
 const int s_time = 1000; //10000; Change this to increase or decrease Standby time
 const int d_time = 60; // time is in mili seconds the value is s_time X d_time (D_time == Delay time) Must be less then 100
 

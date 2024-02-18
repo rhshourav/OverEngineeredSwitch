@@ -7,8 +7,8 @@
 #include <time.h>
 
 // WiFi credentials
-char ssid[] = "IT";
-char pass[] = "TazinSayeed#@!";
+char ssid[] = "*****************";
+char pass[] = "*******************";
 //Initing Display
 #define SCREEN_WIDTH 128
 #define SCREEN_HEIGHT 64

@@ -6,8 +6,8 @@
 
 // Your WiFi credentials. 
 // Set password to "" for open networks.
-char ssid[] = "On";
-char pass[] = "123456789";
+char ssid[] = "*********";
+char pass[] = "**********";
 
 bool fetch_blynk_state = true;  //true or false
 
